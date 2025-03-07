@@ -1,4 +1,4 @@
-# ECE 484 MPS-SP25
+# MP2
 
 
 In EVERY NEW TERMINAL run this for ROS:
